@@ -1,3 +1,3 @@
 dependencies:
-- octave_kernel==0.35.*
-- octave==7.2.*
+- octave_kernel
+- octave
