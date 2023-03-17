@@ -1,0 +1,3 @@
+dependencies:
+- octave_kernel==0.32.0
+- octave==6.2.0
